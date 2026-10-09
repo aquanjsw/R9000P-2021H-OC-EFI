@@ -6,7 +6,7 @@
 Some tips:
 
 - Using hybird mode during OS install
-- Turn to dGPU only mode after finishing the manual install in [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
+- Turn to dGPU only mode after finishing the manual install steps in [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
 - Following [usbtoolbox/tool](https://github.com/usbtoolbox/tool) 's guide to replace `UTBMap.kext` before OS install
 
 My specs:
