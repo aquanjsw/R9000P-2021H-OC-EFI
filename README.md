@@ -7,7 +7,7 @@
 > - devices like wifi/audio are unusable.
 > - stucking on acpi about 1m during boot (possibly caused by lid)
 
-Verified driver 1.1.0 on OS 15.8.1
+Verified driver 1.4.0 on OS 15.8.1
 
 Some tips:
 
