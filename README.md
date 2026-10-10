@@ -1,7 +1,11 @@
 # MacOS 15 OC EFI for Legion R9000P 2021H (5800H + 3060 Laptop)
 
 > [!WARNING]
-> It's a rather minimal/rough EFI that mainly focuses on testing [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver). Devices like wifi/audio are unusable.
+> It's a rather minimal/rough EFI that mainly focuses on testing [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver). 
+>
+> Known issues:
+> - devices like wifi/audio are unusable.
+> - stucking on acpi about 1m during boot (possibly caused by lid)
 
 Verified driver 1.1.0 on OS 15.8.1
 
