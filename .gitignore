@@ -11,3 +11,4 @@
 
 # nullmoth backups
 *.nullmoth*
+*.before*
