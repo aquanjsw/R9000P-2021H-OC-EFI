@@ -11,7 +11,7 @@
 
 |     | Component            | Model               |
 | --- | -------------------- | ------------------- |
-| ✅  | NVIDIA Driver        | 2.3.5               |
+| ✅  | NVIDIA Driver        | 2.6.4               |
 | ✅  | OS                   | 26.7.1              |
 | ✅  | internal BOE monitor | 2560x1600@165hz     |
 | ✅  | external monitor     | 2560x1440@60hz@hdmi |

@@ -2054,7 +2054,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>revpatch=sbvmm itlwm_he=1 keepsyms=1 amfi_get_out_of_my_way=0x1 amfi=0x80 ipc_control_port_options=0 nvfb=1 nvaccel=1 nvfbheads=4 -nvkmsnosmooth</string>
+				<string>revpatch=sbvmm itlwm_he=1 keepsyms=1 amfi_get_out_of_my_way=0x1 amfi=0x80 ipc_control_port_options=0 nvfb=1 nvaccel=1 nvfbheads=4 -nvkmsnosmooth nvrmacpibl=1 nvfbhidpi=1</string>
 				<key>csr-active-config</key>
 				<data>QwoAAA==</data>
 				<key>prev-lang:kbd</key>
